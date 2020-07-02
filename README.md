@@ -7,7 +7,7 @@ Esse repositório apresenta o meu progresso no estudo da linguagem de programaç
 
 ## Principais Tópicos Estudados
 
-1. Fundamentos da Linguagem R;
+1. Fundamentos da Linguagem C++;
 2. Aprofundamento em Orientação a Objetos;
 3. Aprofundamento em Ponteiros e Referências;
 4. Aplicação de Estrutura de Dados;
