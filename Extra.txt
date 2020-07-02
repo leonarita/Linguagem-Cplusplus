@@ -1,0 +1,2 @@
+Argumentos da função main
+Funções inline
