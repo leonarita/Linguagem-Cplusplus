@@ -11,4 +11,4 @@ Esse repositório apresenta o meu progresso no estudo da linguagem de programaç
 2. Aprofundamento em Orientação a Objetos;
 3. Aprofundamento em Ponteiros e Referências;
 4. Aplicação de Estrutura de Dados;
-5. Aplicação de Algoritmos;
+5. Aplicação de Algoritmos.
